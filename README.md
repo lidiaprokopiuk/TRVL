@@ -1,2 +1,2 @@
 **#SITE**
-trvl01.netlify.app
+https://trvl01.netlify.app
